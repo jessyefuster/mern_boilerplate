@@ -1,2 +1,1 @@
-# mern_boilerplate
-MongoDB | Express | ReactJS boilerplate
+Use 'npm install && npm start' to get started
